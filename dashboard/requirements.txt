@@ -1,0 +1,5 @@
+dash==2.13.0
+pandas==2.1.0
+numpy<2.0.0
+psycopg2-binary==2.9.9
+plotly==5.17.0
